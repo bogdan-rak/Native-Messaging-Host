@@ -13,4 +13,4 @@
 Использовать Native Messaging Host: https://developer.chrome.com/extensions/nativeMessaging
 написать Native Messaging (c++11)
 
-Обратить внимание: при закрытие Браузера - процесс Native Messaging должен закрываться (даже если chrome закрыть через Task Manage).
+Обратить внимание: при закрытие Браузера - процесс Native Messaging должен закрываться (даже если chrome закрыть через Task Manager).
