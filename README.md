@@ -14,3 +14,6 @@
 написать Native Messaging (c++11)
 
 Обратить внимание: при закрытие Браузера - процесс Native Messaging должен закрываться (даже если chrome закрыть через Task Manager).
+
+
+Тестовое задание Macte! Labs Inc (отправлять на bogdan@mactelabs.com c отметкой: тестовое задание)
